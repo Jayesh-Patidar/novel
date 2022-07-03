@@ -9,7 +9,7 @@
         "format:check": "prettier --check .",
         "format": "prettier --write ."
     },
-    "repository": "https://github.com/Jayesh-Patidar/node-laravel",
+    "repository": "https://github.com/Jayesh-Patidar/novel.git",
     "author": "Jayesh Patidar <j.patidar1910@gmail.com>",
     "license": "MIT",
     "dependencies": {},
